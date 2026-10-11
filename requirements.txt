@@ -1,0 +1,3 @@
+yfinance
+pytrends
+matplotlib
