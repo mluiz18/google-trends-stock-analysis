@@ -49,7 +49,7 @@ Como exemplo, é analisado o interesse de busca pelo termo "Petróleo" em compar
 Clone o repositório:
 
 ```bash
-git clone URL_DO_SEU_REPOSITORIO
+git clone https://github.com/mluiz18/google-trends-stock-analysis
 cd google-trends-stock-analysis
 ```
 
